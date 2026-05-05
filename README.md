@@ -44,6 +44,5 @@ Atualmente cursando Análise e Desenvolvimento de Sistemas na Universidade Cidad
 | *Gestão e Governança* | Implementação de fluxos de gestão e governança na plataforma Bubble | [Ver Projeto](./Projeto-6-Gestao-e-Governanca-no-Bubble) |
 | *Desenvolvimento de App* | Projeto focado no desenvolvimento de aplicação para a Neto Digital | [Ver Projeto](./Projeto-7-Desenvolvimento-de-App) |
 | *EXIF Insight* | Ferramenta baseada em Python para extração e análise de metadados | [Ver Projeto](./projeto_exif_insight) |
-| *Análise de Marketing* | Dashboard de Power BI focado em métricas de performance | [Ver Projeto](./projeto_analise_marketing) |
  
 ---
