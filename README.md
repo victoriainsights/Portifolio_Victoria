@@ -38,6 +38,7 @@ Atualmente cursando Análise e Desenvolvimento de Sistemas na Universidade Cidad
 | Projeto | Descrição | Link |
 | :--- | :--- | :--- |
 | *SM1 - Engenharia de Prompt* | Utilização de técnicas de engenharia de prompt para o modelo Qwen | [Ver Projeto](./SM1%20-%20A%20Corrida%20do%20prompt) |
+| *SM2 - Classificação Visual* | Laboratório focado em técnicas de visão computacional e classificação | [Ver Projeto](./SM2%20-%20Laboratório%20de%20Classificação%20Visual) |
 | *SM3 - Batalha de Modelos* | Análise comparativa entre diferentes LLMs e engenharia de prompt | [Ver Projeto](./SM3%20-%20Batalha%20de%20Modelos%20&%20Engenharia%20de%20Prompt) |
 | *SM4 - Engenharia Reversa* | Análise de estrutura e lógica através de engenharia reversa | [Ver Projeto](./SM4%20-%20Engenharia%20Reversa) |
 | *SM5 - Reversa e Senso Crítico* | Aplicação de engenharia reversa com foco em análise crítica   | [Ver Projeto](./SM5%20-%20Do%20Clone%20ao%20Produto%20Mínimo%20Viável%20(MVP+)) |
