@@ -37,12 +37,13 @@ Atualmente cursando Análise e Desenvolvimento de Sistemas na Universidade Cidad
 #### 🤖 Inteligência Artificial e Dados
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| *Engenharia de Prompt (Qwen)* | Utilização de técnicas de engenharia de prompt para o modelo Qwen | [Ver Projeto](./Projeto - 1 - Engenharia-de-prompt-qwen) |
-| *Batalha de Modelos* | Análise comparativa entre diferentes LLMs e engenharia de prompt | [Ver Projeto](./Projeto-3-Batalha-de-Modelos-&-Engenharia...) |
-| *Engenharia Reversa* | Análise de estrutura e lógica através de engenharia reversa | [Ver Projeto](./Projeto-4-Engenharia-reversa) |
-| *Reversa e Senso Crítico* | Aplicação de engenharia reversa com foco em análise crítica | [Ver Projeto](./Projeto-5-Engenharia-Reversa-e-Senso-Critico) |
-| *Gestão e Governança* | Implementação de fluxos de gestão e governança na plataforma Bubble | [Ver Projeto](./Projeto-6-Gestao-e-Governanca-no-Bubble) |
-| *Desenvolvimento de App* | Projeto focado no desenvolvimento de aplicação para a Neto Digital | [Ver Projeto](./Projeto-7-Desenvolvimento-de-App) |
-| *EXIF Insight* | Ferramenta baseada em Python para extração e análise de metadados | [Ver Projeto](./projeto_exif_insight) |
+| Projeto | Descrição | Link |
+| :--- | :--- | :--- |
+| *SM1 - Engenharia de Prompt* | Utilização de técnicas de engenharia de prompt para o modelo Qwen | [Ver Projeto](./SM1) |
+| *SM3 - Batalha de Modelos* | Análise comparativa entre diferentes LLMs e engenharia de prompt | [Ver Projeto](./SM3) |
+| *SM4 - Engenharia Reversa* | Análise de estrutura e lógica através de engenharia reversa | [Ver Projeto](./SM4) |
+| *SM5 - Reversa e Senso Crítico* | Aplicação de engenharia reversa com foco em análise crítica | [Ver Projeto](./SM5) |
+| *SM6 - Gestão e Governança* | Implementação de fluxos de gestão e governança na plataforma Bubble | [Ver Projeto](./SM6) |
+| *SM7 - Desenvolvimento de App* | Projeto focado no desenvolvimento de aplicação para a Neto Digital | [Ver Projeto](./SM7) |
  
 ---
